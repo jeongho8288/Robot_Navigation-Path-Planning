@@ -142,5 +142,5 @@ By generating and expanding two trees simultaneously from the starting point and
 → I wrote a code called rrt_both_path.py.  
   
 <img src="https://github.com/user-attachments/assets/d00b33c4-dc47-4a71-81f1-787c462769e2" alt="Description2" style="width: 40%; height: 300px;">  
-<br><br>
+<br>
 This approach finds the path relatively faster compared to the previously improved algorithms.
