@@ -4,7 +4,28 @@
 - https://github.com/AtsushiSakai/PythonRobotics  
 <hr style="border-top: 3px solid #bbb;">
 
-## Path Planning
+## Local Path Planning
+
+- Bug Algorithm  
+- Artificial Potential Field
+- Dynamic Window Approach
+- Follow the Gap  
+
+## Global Path Planning
+
+### Graph Based Apporoach
+
+- Dijkstra's Algorithm  
+- A* Algorithm  
+
+### Sampling Based Approach
+
+- Rapidly-Exploring Random Tree (RRT)  
+- Probabilistic Roadmap (RPM)  
+- Visiblity Planning  
+- Smoothing Planned Paths  
+<hr style="border-top: 3px solid #bbb;">
+
 
 ### 1. Pure Pursuit Algorithm
 
