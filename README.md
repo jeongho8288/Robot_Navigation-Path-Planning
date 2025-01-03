@@ -35,7 +35,7 @@
 - There are various versions of the BUG algorithm, such as BUG0, BUG1, BUG2, and Tangent Bug.  
 - It is simple to implement and requires low computation, but it does not always guarantee the optimal path.  
 
-<img src="https://github.com/user-attachments/assets/5a6f25dd-657a-46d1-9141-fc07b150a543" alt="Description2" style="width: 60%; height: 500px;">  
+<img src="https://github.com/user-attachments/assets/5a6f25dd-657a-46d1-9141-fc07b150a543" alt="Description2" style="width: 50%; height: 400px;">  
 
 ### Discussion
 
@@ -107,9 +107,7 @@ Integrating the Dynamic Window Approach, BUG, and Potential Field algorithms int
 - A drawback is that the tree may expand unnecessarily due to the random sampling process.  
 - It operates efficiently with a simple structure and has the advantage of being applicable to high-dimensional spaces.  
 
-![image](https://github.com/user-attachments/assets/b03029d8-a8e7-48f5-92b3-17d12ef27905)
-
-<img src="https://github.com/user-attachments/assets/b03029d8-a8e7-48f5-92b3-17d12ef27905" alt="Description2" style="width: 50%; height: 500px;">  
+<img src="https://github.com/user-attachments/assets/b03029d8-a8e7-48f5-92b3-17d12ef27905" alt="Description2" style="width: 40%; height: 300px;">  
 
 ### Discussion
 
@@ -126,7 +124,7 @@ A method where multiple trees are generated simultaneously from the starting poi
 → Increases efficiency in terms of time.  
 → I wrote a code : rrt_many_tree_generate.py.  
   
-<img src="https://github.com/user-attachments/assets/d3ca1751-4e2f-4b2e-a511-3f92d8f68c7f" alt="Description2" style="width: 40%; height: 400px;">  
+<img src="https://github.com/user-attachments/assets/d3ca1751-4e2f-4b2e-a511-3f92d8f68c7f" alt="Description2" style="width: 40%; height: 300px;">  
   
 ### 2. Sampling Close Points
 
@@ -135,7 +133,7 @@ To prevent this, random sampling is conducted within a small distance radius onl
 → Increases efficiency in terms of time and computation.  
 → I wrote a code : rrt_sampling_short.py.  
   
-<img src="https://github.com/user-attachments/assets/9a0a83e2-640b-4fd2-80c6-7410dc3f7cc1" alt="Description2" style="width: 40%; height: 400px;">  
+<img src="https://github.com/user-attachments/assets/9a0a83e2-640b-4fd2-80c6-7410dc3f7cc1" alt="Description2" style="width: 40%; height: 300px;">  
   
 ### 3. Simultaneous generating trees from the starting point and the goal point.
 
@@ -143,6 +141,6 @@ By generating and expanding two trees simultaneously from the starting point and
 → Increases efficiency in terms of time.  
 → I wrote a code called rrt_both_path.py.  
   
-<img src="https://github.com/user-attachments/assets/d00b33c4-dc47-4a71-81f1-787c462769e2" alt="Description2" style="width: 40%; height: 400px;">  
+<img src="https://github.com/user-attachments/assets/d00b33c4-dc47-4a71-81f1-787c462769e2" alt="Description2" style="width: 40%; height: 300px;">  
   
 This approach finds the path relatively faster compared to the previously improved algorithms.
