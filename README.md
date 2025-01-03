@@ -10,6 +10,7 @@
 - Artificial Potential Field
 - Dynamic Window Approach
 - Follow the Gap  
+<hr style="border-top: 3px solid #bbb;">
 
 ## Global Path Planning
 
